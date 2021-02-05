@@ -4,6 +4,10 @@ package student;
  * This class +++Insert Description Here++
  * @author Domenic
  */
+/**for pull
+ * this comment was added on Feb 5th @ 9:19am
+ * @author Domenic
+ */
 public class StudentList {
     public static void main (String[] args){
         Student [] studentList = new Student [2];
