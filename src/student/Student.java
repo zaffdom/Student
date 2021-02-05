@@ -3,6 +3,7 @@ package student;
 /**Student (W2 in-class demo)
  *This class +++Insert Description Here+++
  * @author Domenic Zaffino
+ This comment was added from Github on Feb 5 @ 9:41am to check fetch and merge
  */
 public class Student {
     private String name;
